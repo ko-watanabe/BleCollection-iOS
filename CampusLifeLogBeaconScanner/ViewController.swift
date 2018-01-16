@@ -1,5 +1,6 @@
 //
 //  ViewController.swift
+//  iPhonアプリの画面をコントロールするためのファイル。このファイルに書くことでアプリを作り込んでいく。アプリ開発で最も使用するファイル。
 //  CampusLifeLogBeaconScanner
 //
 //  Created by Ko Watanabe on 2017/12/15.

@@ -1,5 +1,6 @@
 //
 //  AppDelegate.swift
+//  ユーザがアプリを起動した時に最初に呼ばれるファイル。アプリの起動時や、バックグラウンドの状態に移行するタイミングでアプリの動作を変更したい場合はこのファイルにコードを書く。
 //  CampusLifeLogBeaconScanner
 //
 //  Created by Ko Watanabe on 2017/12/15.
