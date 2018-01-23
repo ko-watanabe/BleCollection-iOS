@@ -19,7 +19,7 @@ class BeaconManager: NSObject, CLLocationManagerDelegate {
     
     let UUIDList = [
         "00000000-1234-1234-ABCD-123456789ABC",
-    ]
+        ]
     
     func setup() {
         locationManager = CLLocationManager()
@@ -42,7 +42,7 @@ class BeaconManager: NSObject, CLLocationManagerDelegate {
             locationManager.startMonitoring(for: beaconRegion)
         }
     }
-
+    
     func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
         print("didChangeAuthorizationStatus");
         switch (status) {
