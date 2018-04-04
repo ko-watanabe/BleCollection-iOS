@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		23AA002E5778B5377F9610C0 /* Pods_CampusLifeLogBeaconScanner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 645B318B5C0A3609011E49A4 /* Pods_CampusLifeLogBeaconScanner.framework */; };
-		47592E537646D4ECD974630F /* Pods_CampusLifeLogBeaconScannerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC16317FF7A461E90ABCC8E9 /* Pods_CampusLifeLogBeaconScannerTests.framework */; };
-		8C87CE23FFC0EED9E37B1925 /* Pods_CampusLifeLogBeaconScannerUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88D1568C77684346832B4B90 /* Pods_CampusLifeLogBeaconScannerUITests.framework */; };
+		A5FE2FFA6EC270058CDB0DCE /* Pods_CampusLifeLogBeaconScanner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FEBA148B4912693DC6E3CF29 /* Pods_CampusLifeLogBeaconScanner.framework */; };
+		A7E9DEE8A709879139429524 /* Pods_CampusLifeLogBeaconScannerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F3CDCFE8FC99818BD818A2C /* Pods_CampusLifeLogBeaconScannerTests.framework */; };
+		AEA66AECC3BF2652C1873914 /* Pods_CampusLifeLogBeaconScannerUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35CC171D7FCE566EA8B43009 /* Pods_CampusLifeLogBeaconScannerUITests.framework */; };
 		BC449B3A1FE376CC0079287D /* BeaconManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC449B391FE376CC0079287D /* BeaconManager.swift */; };
 		BC449B3C1FE3B3370079287D /* NotificationName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC449B3B1FE3B3370079287D /* NotificationName.swift */; };
 		BC449B3E1FE400280079287D /* Beacon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC449B3D1FE400280079287D /* Beacon.swift */; };
@@ -41,13 +41,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0008F45FF43B9D1D94B712C7 /* Pods-CampusLifeLogBeaconScanner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScanner.release.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner.release.xcconfig"; sourceTree = "<group>"; };
-		5B118B7C7940B337019D07D9 /* Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerTests/Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig"; sourceTree = "<group>"; };
-		6109FF9BDE36AAB20379D2EC /* Pods-CampusLifeLogBeaconScannerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerTests/Pods-CampusLifeLogBeaconScannerTests.release.xcconfig"; sourceTree = "<group>"; };
-		645B318B5C0A3609011E49A4 /* Pods_CampusLifeLogBeaconScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CampusLifeLogBeaconScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6A18ADAB47FF431EF4832C40 /* Pods-CampusLifeLogBeaconScanner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScanner.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner.debug.xcconfig"; sourceTree = "<group>"; };
-		785265A971797E9ED56B1FF9 /* Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerUITests/Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		88D1568C77684346832B4B90 /* Pods_CampusLifeLogBeaconScannerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CampusLifeLogBeaconScannerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		060E68C5523E42B6FB53DD31 /* Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerTests/Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2D9BDD657FBB0B7166A4A3C3 /* Pods-CampusLifeLogBeaconScanner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScanner.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner.debug.xcconfig"; sourceTree = "<group>"; };
+		2F4D94BC6789447168CA9DF9 /* Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerUITests/Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig"; sourceTree = "<group>"; };
+		35CC171D7FCE566EA8B43009 /* Pods_CampusLifeLogBeaconScannerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CampusLifeLogBeaconScannerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		58A708CD280155D487519210 /* Pods-CampusLifeLogBeaconScanner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScanner.release.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner.release.xcconfig"; sourceTree = "<group>"; };
+		6F493FDC801DAB7ED09E2952 /* Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerUITests/Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		9F3CDCFE8FC99818BD818A2C /* Pods_CampusLifeLogBeaconScannerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CampusLifeLogBeaconScannerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC449B391FE376CC0079287D /* BeaconManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeaconManager.swift; sourceTree = "<group>"; };
 		BC449B3B1FE3B3370079287D /* NotificationName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationName.swift; sourceTree = "<group>"; };
 		BC449B3D1FE400280079287D /* Beacon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Beacon.swift; sourceTree = "<group>"; };
@@ -66,8 +66,8 @@
 		BCA9185C1FE3699D00BAE6C1 /* CampusLifeLogBeaconScannerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CampusLifeLogBeaconScannerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCA918601FE3699D00BAE6C1 /* CampusLifeLogBeaconScannerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampusLifeLogBeaconScannerUITests.swift; sourceTree = "<group>"; };
 		BCA918621FE3699D00BAE6C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CC16317FF7A461E90ABCC8E9 /* Pods_CampusLifeLogBeaconScannerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CampusLifeLogBeaconScannerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F3035049AF9CC66F826E425E /* Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerUITests/Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig"; sourceTree = "<group>"; };
+		DCF4662132805F56D0B24EC9 /* Pods-CampusLifeLogBeaconScannerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CampusLifeLogBeaconScannerTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerTests/Pods-CampusLifeLogBeaconScannerTests.release.xcconfig"; sourceTree = "<group>"; };
+		FEBA148B4912693DC6E3CF29 /* Pods_CampusLifeLogBeaconScanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CampusLifeLogBeaconScanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23AA002E5778B5377F9610C0 /* Pods_CampusLifeLogBeaconScanner.framework in Frameworks */,
+				A5FE2FFA6EC270058CDB0DCE /* Pods_CampusLifeLogBeaconScanner.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47592E537646D4ECD974630F /* Pods_CampusLifeLogBeaconScannerTests.framework in Frameworks */,
+				A7E9DEE8A709879139429524 /* Pods_CampusLifeLogBeaconScannerTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,34 +91,34 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8C87CE23FFC0EED9E37B1925 /* Pods_CampusLifeLogBeaconScannerUITests.framework in Frameworks */,
+				AEA66AECC3BF2652C1873914 /* Pods_CampusLifeLogBeaconScannerUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		248031977A5A31325BB2AF46 /* Pods */ = {
+		43EB94F2AFBB695470480C6C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				6A18ADAB47FF431EF4832C40 /* Pods-CampusLifeLogBeaconScanner.debug.xcconfig */,
-				0008F45FF43B9D1D94B712C7 /* Pods-CampusLifeLogBeaconScanner.release.xcconfig */,
-				5B118B7C7940B337019D07D9 /* Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig */,
-				6109FF9BDE36AAB20379D2EC /* Pods-CampusLifeLogBeaconScannerTests.release.xcconfig */,
-				785265A971797E9ED56B1FF9 /* Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig */,
-				F3035049AF9CC66F826E425E /* Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
-		278D85D6F6BFF4F3334303F2 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				645B318B5C0A3609011E49A4 /* Pods_CampusLifeLogBeaconScanner.framework */,
-				CC16317FF7A461E90ABCC8E9 /* Pods_CampusLifeLogBeaconScannerTests.framework */,
-				88D1568C77684346832B4B90 /* Pods_CampusLifeLogBeaconScannerUITests.framework */,
+				FEBA148B4912693DC6E3CF29 /* Pods_CampusLifeLogBeaconScanner.framework */,
+				9F3CDCFE8FC99818BD818A2C /* Pods_CampusLifeLogBeaconScannerTests.framework */,
+				35CC171D7FCE566EA8B43009 /* Pods_CampusLifeLogBeaconScannerUITests.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8E5C5A969AF653DFC233CE1B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2D9BDD657FBB0B7166A4A3C3 /* Pods-CampusLifeLogBeaconScanner.debug.xcconfig */,
+				58A708CD280155D487519210 /* Pods-CampusLifeLogBeaconScanner.release.xcconfig */,
+				060E68C5523E42B6FB53DD31 /* Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig */,
+				DCF4662132805F56D0B24EC9 /* Pods-CampusLifeLogBeaconScannerTests.release.xcconfig */,
+				6F493FDC801DAB7ED09E2952 /* Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig */,
+				2F4D94BC6789447168CA9DF9 /* Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		BCA918341FE3699C00BAE6C1 = {
@@ -128,8 +128,8 @@
 				BCA918541FE3699D00BAE6C1 /* CampusLifeLogBeaconScannerTests */,
 				BCA9185F1FE3699D00BAE6C1 /* CampusLifeLogBeaconScannerUITests */,
 				BCA9183E1FE3699C00BAE6C1 /* Products */,
-				248031977A5A31325BB2AF46 /* Pods */,
-				278D85D6F6BFF4F3334303F2 /* Frameworks */,
+				8E5C5A969AF653DFC233CE1B /* Pods */,
+				43EB94F2AFBB695470480C6C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -186,12 +186,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BCA918651FE3699D00BAE6C1 /* Build configuration list for PBXNativeTarget "CampusLifeLogBeaconScanner" */;
 			buildPhases = (
-				0AB881FB0D3119A3C9CDE43F /* [CP] Check Pods Manifest.lock */,
+				F6AAFF1A1839B5AB06A2FBC2 /* [CP] Check Pods Manifest.lock */,
 				BCA918391FE3699C00BAE6C1 /* Sources */,
 				BCA9183A1FE3699C00BAE6C1 /* Frameworks */,
 				BCA9183B1FE3699C00BAE6C1 /* Resources */,
-				DCFA4B9D20281B025FE92DE4 /* [CP] Embed Pods Frameworks */,
-				D4DADD7115C2B7556A64C543 /* [CP] Copy Pods Resources */,
+				84C7ED4283E7A5F19C552ADC /* [CP] Embed Pods Frameworks */,
+				B0C1A5813EF5E28E83E66D1C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -206,12 +206,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BCA918681FE3699D00BAE6C1 /* Build configuration list for PBXNativeTarget "CampusLifeLogBeaconScannerTests" */;
 			buildPhases = (
-				E1E5F117BA70A6392DB3BD2E /* [CP] Check Pods Manifest.lock */,
+				FCF99167A529619F890E3C42 /* [CP] Check Pods Manifest.lock */,
 				BCA9184D1FE3699D00BAE6C1 /* Sources */,
 				BCA9184E1FE3699D00BAE6C1 /* Frameworks */,
 				BCA9184F1FE3699D00BAE6C1 /* Resources */,
-				4AA94274A3CD59CD2E24D65E /* [CP] Embed Pods Frameworks */,
-				F8898A97544B4C4B25A32A74 /* [CP] Copy Pods Resources */,
+				2990AEC71A9CCFBD9B06588F /* [CP] Embed Pods Frameworks */,
+				C9D3C7AC0407F3FEA68578A5 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -227,12 +227,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BCA9186B1FE3699D00BAE6C1 /* Build configuration list for PBXNativeTarget "CampusLifeLogBeaconScannerUITests" */;
 			buildPhases = (
-				5F1021B060AB53BD9CB0E9C5 /* [CP] Check Pods Manifest.lock */,
+				01EF7A285313C3738E186BD9 /* [CP] Check Pods Manifest.lock */,
 				BCA918581FE3699D00BAE6C1 /* Sources */,
 				BCA918591FE3699D00BAE6C1 /* Frameworks */,
 				BCA9185A1FE3699D00BAE6C1 /* Resources */,
-				79EFCCC6892713F0D0E530FD /* [CP] Embed Pods Frameworks */,
-				A75C14835A07B83F57208966 /* [CP] Copy Pods Resources */,
+				2D511CE4AF6FA2F92B185DD2 /* [CP] Embed Pods Frameworks */,
+				A52B75510AC396F422F8A880 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -326,22 +326,25 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		0AB881FB0D3119A3C9CDE43F /* [CP] Check Pods Manifest.lock */ = {
+		01EF7A285313C3738E186BD9 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CampusLifeLogBeaconScannerUITests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		4AA94274A3CD59CD2E24D65E /* [CP] Embed Pods Frameworks */ = {
+		2990AEC71A9CCFBD9B06588F /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -356,22 +359,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerTests/Pods-CampusLifeLogBeaconScannerTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		5F1021B060AB53BD9CB0E9C5 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		79EFCCC6892713F0D0E530FD /* [CP] Embed Pods Frameworks */ = {
+		2D511CE4AF6FA2F92B185DD2 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -386,7 +374,27 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerUITests/Pods-CampusLifeLogBeaconScannerUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A75C14835A07B83F57208966 /* [CP] Copy Pods Resources */ = {
+		84C7ED4283E7A5F19C552ADC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RealmSwift.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A52B75510AC396F422F8A880 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -401,7 +409,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerUITests/Pods-CampusLifeLogBeaconScannerUITests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D4DADD7115C2B7556A64C543 /* [CP] Copy Pods Resources */ = {
+		B0C1A5813EF5E28E83E66D1C /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -416,37 +424,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		DCFA4B9D20281B025FE92DE4 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScanner/Pods-CampusLifeLogBeaconScanner-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E1E5F117BA70A6392DB3BD2E /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		F8898A97544B4C4B25A32A74 /* [CP] Copy Pods Resources */ = {
+		C9D3C7AC0407F3FEA68578A5 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -459,6 +437,42 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CampusLifeLogBeaconScannerTests/Pods-CampusLifeLogBeaconScannerTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F6AAFF1A1839B5AB06A2FBC2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CampusLifeLogBeaconScanner-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FCF99167A529619F890E3C42 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CampusLifeLogBeaconScannerTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -637,7 +651,7 @@
 		};
 		BCA918661FE3699D00BAE6C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6A18ADAB47FF431EF4832C40 /* Pods-CampusLifeLogBeaconScanner.debug.xcconfig */;
+			baseConfigurationReference = 2D9BDD657FBB0B7166A4A3C3 /* Pods-CampusLifeLogBeaconScanner.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -653,7 +667,7 @@
 		};
 		BCA918671FE3699D00BAE6C1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0008F45FF43B9D1D94B712C7 /* Pods-CampusLifeLogBeaconScanner.release.xcconfig */;
+			baseConfigurationReference = 58A708CD280155D487519210 /* Pods-CampusLifeLogBeaconScanner.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -669,7 +683,7 @@
 		};
 		BCA918691FE3699D00BAE6C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B118B7C7940B337019D07D9 /* Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig */;
+			baseConfigurationReference = 060E68C5523E42B6FB53DD31 /* Pods-CampusLifeLogBeaconScannerTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -687,7 +701,7 @@
 		};
 		BCA9186A1FE3699D00BAE6C1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6109FF9BDE36AAB20379D2EC /* Pods-CampusLifeLogBeaconScannerTests.release.xcconfig */;
+			baseConfigurationReference = DCF4662132805F56D0B24EC9 /* Pods-CampusLifeLogBeaconScannerTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -705,7 +719,7 @@
 		};
 		BCA9186C1FE3699D00BAE6C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 785265A971797E9ED56B1FF9 /* Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig */;
+			baseConfigurationReference = 6F493FDC801DAB7ED09E2952 /* Pods-CampusLifeLogBeaconScannerUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -722,7 +736,7 @@
 		};
 		BCA9186D1FE3699D00BAE6C1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F3035049AF9CC66F826E425E /* Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig */;
+			baseConfigurationReference = 2F4D94BC6789447168CA9DF9 /* Pods-CampusLifeLogBeaconScannerUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
