@@ -42,8 +42,6 @@ extension ViewController{
     
     /** C: 今回、通知された時に呼ばれる用のメソッド */
     @objc private func notified(notification: Notification) {
-        print("呼ばれた(　´･‿･｀): \(notification)")
-        
         if let beacons = notification.object as? [CLBeacon]{
             for beacon in beacons {
                 let minor = beacon.minor
