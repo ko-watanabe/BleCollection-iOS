@@ -1,6 +1,0 @@
-framework module Pods_CampusLifeLogBeaconScanner {
-  umbrella header "Pods-CampusLifeLogBeaconScanner-umbrella.h"
-
-  export *
-  module * { export * }
-}

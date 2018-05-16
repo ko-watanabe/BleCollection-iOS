@@ -47,7 +47,7 @@ extension ViewController{
         if let beacons = notification.object as? [CLBeacon]{
             for beacon in beacons {
                 let minor = beacon.minor
-                let major = beacon.major
+                let major =  beacon.major
                 let rssi = beacon.rssi
                 var beaconDetails = "Major: \(major) "
                 beaconDetails += "Minor: \(minor) "
