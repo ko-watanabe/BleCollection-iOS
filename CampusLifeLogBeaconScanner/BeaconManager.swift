@@ -18,7 +18,8 @@ class BeaconManager: NSObject, CLLocationManagerDelegate {
     var beaconRegion:CLBeaconRegion!
     
     let UUIDList = [
-        "00000000-1234-1234-ABCD-123456789ABC",
+        //lease put uuid_list for what you want to correct
+        "",
         ]
     
     func setup() {
